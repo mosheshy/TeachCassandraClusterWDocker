@@ -1,0 +1,40 @@
+Bird ID: 9b983c255cea1fd731b7ce603317bcd6, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.699000, Latitude: 76.3606245105908, Longitude: -0.44877690856183267
+Retrieved data for BIRD9 (ID: 9b983c255cea1fd731b7ce603317bcd6): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 699000), name='BIRD9', latitude=76.3606245105908, longitude=-0.44877690856183267), name: BIRD9, day: 2025-07-23, timestamp: 2025-07-23 14:45:59.699000, Latitude: 76.3606245105908, Longitude: -0.44877690856183267
+Bird ID: 303d2bee32290c65a01f0c46e612cf63, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.584000, Latitude: 63.940630487730466, Longitude: -121.94714755163758
+Retrieved data for BIRD1 (ID: 303d2bee32290c65a01f0c46e612cf63): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 584000), name='BIRD1', latitude=63.940630487730466, longitude=-121.94714755163758), name: BIRD1, day: 2025-07-23, timestamp: 2025-07-23 14:45:59.584000, Latitude: 63.940630487730466, Longitude: -121.94714755163758
+Bird ID: c2a6999f1e03c8446e8bd8ffae7db61f, day: 2025-07-23, Timestamp: 2025-07-23 16:12:04.640000, Latitude: 21.447363579665705, Longitude: 69.94549110380714
+Retrieved data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 16, 12, 4, 640000), name='BIRD3', latitude=21.447363579665705, longitude=69.94549110380714), name: BIRD3, day: 2025-07-23, timestamp: 2025-07-23 16:12:04.640000, Latitude: 21.447363579665705, Longitude: 69.94549110380714
+Bird ID: 57e5f5475dfd930afbbc2f1401b4e362, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.778000, Latitude: -7.677322000010964, Longitude: 151.08889533806294
+Retrieved data for BIRD17 (ID: 57e5f5475dfd930afbbc2f1401b4e362): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 778000), name='BIRD17', latitude=-7.677322000010964, longitude=151.08889533806294), name: BIRD17, day: 2025-07-23, timestamp: 2025-07-23 14:45:59.778000, Latitude: -7.677322000010964, Longitude: 151.08889533806294
+Bird ID: ab5941f8684d38c231ba933a1375210f, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.623000, Latitude: -55.78248267370112, Longitude: 72.90729595901256
+Retrieved data for BIRD4 (ID: ab5941f8684d38c231ba933a1375210f): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 623000), name='BIRD4', latitude=-55.78248267370112, longitude=72.90729595901256), name: BIRD4, day: 2025-07-23, timestamp: 2025-07-23 14:45:59.623000, Latitude: -55.78248267370112, Longitude: 72.90729595901256
+Bird ID: 02fd9a23fa32043f7badc4acada1c5dc, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.637000, Latitude: -46.99275680616378, Longitude: -17.665266378683327
+Retrieved data for BIRD5 (ID: 02fd9a23fa32043f7badc4acada1c5dc): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 637000), name='BIRD5', latitude=-46.99275680616378, longitude=-17.665266378683327), name: BIRD5, day: 2025-07-23, timestamp: 2025-07-23 14:45:59.637000, Latitude: -46.99275680616378, Longitude: -17.665266378683327
+fetching data after server downtime...  
+Bird ID: 9b983c255cea1fd731b7ce603317bcd6, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.699000, Latitude: 76.3606245105908, Longitude: -0.44877690856183267
+Retrieved data for BIRD9 (ID: 9b983c255cea1fd731b7ce603317bcd6): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 699000), name='BIRD9', latitude=76.3606245105908, longitude=-0.44877690856183267)
+Data for BIRD9 (ID: 9b983c255cea1fd731b7ce603317bcd6) matches expected values.
+Bird ID: 303d2bee32290c65a01f0c46e612cf63, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.584000, Latitude: 63.940630487730466, Longitude: -121.94714755163758
+Retrieved data for BIRD1 (ID: 303d2bee32290c65a01f0c46e612cf63): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 584000), name='BIRD1', latitude=63.940630487730466, longitude=-121.94714755163758)
+Data for BIRD1 (ID: 303d2bee32290c65a01f0c46e612cf63) matches expected values.
+Bird ID: c2a6999f1e03c8446e8bd8ffae7db61f, day: 2025-07-23, Timestamp: 2025-07-23 16:12:04.640000, Latitude: 21.447363579665705, Longitude: 69.94549110380714
+Retrieved data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 16, 12, 4, 640000), name='BIRD3', latitude=21.447363579665705, longitude=69.94549110380714)
+Data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f) matches expected values.
+Bird ID: 57e5f5475dfd930afbbc2f1401b4e362, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.778000, Latitude: -7.677322000010964, Longitude: 151.08889533806294
+Retrieved data for BIRD17 (ID: 57e5f5475dfd930afbbc2f1401b4e362): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 778000), name='BIRD17', latitude=-7.677322000010964, longitude=151.08889533806294)
+Data for BIRD17 (ID: 57e5f5475dfd930afbbc2f1401b4e362) matches expected values.
+Bird ID: ab5941f8684d38c231ba933a1375210f, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.623000, Latitude: -55.78248267370112, Longitude: 72.90729595901256
+Retrieved data for BIRD4 (ID: ab5941f8684d38c231ba933a1375210f): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 623000), name='BIRD4', latitude=-55.78248267370112, longitude=72.90729595901256)
+Data for BIRD4 (ID: ab5941f8684d38c231ba933a1375210f) matches expected values.
+Bird ID: 02fd9a23fa32043f7badc4acada1c5dc, day: 2025-07-23, Timestamp: 2025-07-23 14:45:59.637000, Latitude: -46.99275680616378, Longitude: -17.665266378683327
+Retrieved data for BIRD5 (ID: 02fd9a23fa32043f7badc4acada1c5dc): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 14, 45, 59, 637000), name='BIRD5', latitude=-46.99275680616378, longitude=-17.665266378683327)
+Data for BIRD5 (ID: 02fd9a23fa32043f7badc4acada1c5dc) matches expected values.
+Inserted bird data: c2a6999f1e03c8446e8bd8ffae7db61f in 2025-07-23 at 2025-07-23 16:14:01.898499, name: BIRD3, latitude: 31.764884184068094, longitude: 179.50382982669856
+Inserted new data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f name: 'BIRD3'): Latitude: 31.764884184068094, Longitude: 179.50382982669856
+Data insertion complete.
+Bird ID: c2a6999f1e03c8446e8bd8ffae7db61f, day: 2025-07-23, Timestamp: 2025-07-23 16:14:01.898000, Latitude: 31.764884184068094, Longitude: 179.50382982669856
+Retrieved data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f name: 'BIRD3'): Row(day=Date(20292), timestamp=datetime.datetime(2025, 7, 23, 16, 14, 1, 898000), name='BIRD3', latitude=31.764884184068094, longitude=179.50382982669856) , Latitude: 31.764884184068094, Longitude: 179.50382982669856
+Fetching data after server restart...
+Bird ID: c2a6999f1e03c8446e8bd8ffae7db61f, day: 2025-07-23, Timestamp: 2025-07-23 16:14:01.898000, Latitude: 31.764884184068094, Longitude: 179.50382982669856
+Retrieved data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f name: 'BIRD3'): BIRD3 , Latitude: 31.764884184068094, Longitude: 179.50382982669856
+Data for BIRD3 (ID: c2a6999f1e03c8446e8bd8ffae7db61f) matches expected values.

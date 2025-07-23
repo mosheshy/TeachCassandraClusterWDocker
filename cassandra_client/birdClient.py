@@ -10,7 +10,7 @@ if __name__ == "__main__":
 
     start_time = datetime.utcnow()
     
-    for i in range(20):
+    for i in range(10):
         
         print(f"\n=== Round {i + 1} ===")
         for name in names:
@@ -20,7 +20,7 @@ if __name__ == "__main__":
             longitude = lon + random.uniform(-0.01, 0.01)
             timestamp = datetime.utcnow() 
             bird_id = get_bird_hash(name)
-            print(f"Timestamp: {timestamp}, Latitude: {latitude}, Longitude: {longitude}")
-            insert_bird_data(bird_id, timestamp,name, latitude, longitude)            
-        time.sleep(10)  # Simulate a delay for each insert
+            print(f"bird {name}, day {timestamp.date()}, Timestamp: {timestamp}, Latitude: {latitude}, Longitude: {longitude}")
+            insert_bird_data(bird_id, timestamp.date(), timestamp, name, latitude, longitude)
+        time.sleep(60)  # Simulate a delay for each insert
     
